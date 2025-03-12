@@ -1,0 +1,150 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    padding: 50px 300px;
+}
+.box1 {
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    justify-content: baseline;
+    gap: 8px;
+    padding: 5px;
+}
+.box2{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 5px;
+}
+.box3{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    justify-content: baseline;
+    gap: 8px;
+    padding: 5px;
+    flex-wrap: wrap;    
+}
+.box4{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    justify-content: baseline;
+    gap: 8px;
+    padding: 5px;    
+    justify-content: space-between;
+}
+.box5{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    justify-content: baseline;
+    gap: 8px;
+    padding: 5px;    
+}
+.box6{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    justify-content: baseline;
+    gap: 8px;
+    padding: 5px;   
+    justify-content:end; 
+}
+.box7{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    justify-content: baseline;
+    gap: 8px;
+    padding: 5px; 
+    justify-content:center ;   
+}
+.box8{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    justify-content: baseline;
+    gap: 8px;
+    padding: 5px;  
+    justify-content: space-between;  
+}
+.box9{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    justify-content: baseline;
+    gap: 8px;
+    padding: 5px;  
+    justify-content: baseline; 
+}
+.box10{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    justify-content: baseline;
+    gap: 8px;
+    padding: 5px;
+    align-items: flex-end;    
+}
+.box11{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    justify-content: baseline;
+    gap: 8px;
+    padding: 5px;  
+    align-items: center;  
+}
+.box12{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    display: flex;
+    justify-content: baseline;
+    gap: 8px;
+    padding: 5px;  
+    justify-content: space-around;  
+}
+.card {
+    width: 40px;
+    height: 40px;
+    background-color: orange;
+    border: 1px solid black;
+    border-radius: 7px;
+}
